@@ -1,0 +1,14 @@
+// Admin part //
+username : admin@admin.com
+password : admin
+
+
+
+// Manager part //
+username : user@gmail.com
+password : 123456789
+
+//user part //
+username : zoromeg@gmail.com
+password : 123456789
+
